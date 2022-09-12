@@ -1,4 +1,6 @@
 # Portfolio Creator & Market Capitalization Comparison
+> Currently working on a website for this project. 
+
 ## Users can perform the following:
 ## 1. Market Capitalization Comparison
   Pick two companies from a list of ten to compare their market capitalizations. Potential gains or losses will be displayed, such as: 
@@ -8,5 +10,3 @@
   Create a portfolio from a select number of companies.
 ## 3. Company Creator
   Create a fictional company that will be displayed on the top 10 list, if the company is in it.
-
-> Currently working on a website for this project. 
